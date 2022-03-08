@@ -20,7 +20,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 console.log("Listening on port: " + LISTEN_PORT );
 
 //our routes
-app.get( '/3D', function( req, res ){ 
+app.get( '/PetTheKitty', function( req, res ){ 
     res.sendFile( __dirname + '/public/3D.html' );
 });
 
