@@ -11,5 +11,13 @@
     "express": "^4.17.3",
     "socket.io": "^4.4.1"
   },
-  "description": ""
+  "description": "A3 - Multi-User Interactions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalia199/ocampoNatalia_IMD3901_A3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natalia199/ocampoNatalia_IMD3901_A3/issues"
+  },
+  "homepage": "https://github.com/natalia199/ocampoNatalia_IMD3901_A3#readme"
 }
